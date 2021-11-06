@@ -27,11 +27,18 @@ __Obstacle Detection:__ Any othe robstacles like a big stone/ fallen tree that m
 
 All the above detections are for avoiding them when the car moves.
 ______________________________________________________________________________________________________________________________________________________________________________________________
+
 __Trajectory Prediction:__
 For cars and pedestrian prediction, predict their trajectory also so that car's motion doesn't hinder with their motion, this is essential to avoid accidents.
 If we are able to predict the path a car or person is about to take then motion decisions can be based upon that analysis as well.
 ______________________________________________________________________________________________________________________________________________________________________________________________
+
 __Motion Planning:__
 Combining the insights from all the above, finlly the motion has to be decided like Steer/Acceleration/Break etc.
 
-Flow Diagram for self-driving car:
+
+
+
+## Flow Diagram for self-driving car:
+![Self_driving_car_approach](https://user-images.githubusercontent.com/35145893/140601677-66d63bbf-e5a8-454e-83c6-66c08728174f.png)
+
